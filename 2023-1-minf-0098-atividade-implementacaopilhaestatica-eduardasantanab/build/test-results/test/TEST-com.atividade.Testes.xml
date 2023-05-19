@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.atividade.Testes" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-03-28T16:44:54" hostname="EDUARDABARROS" time="0.054">
+  <properties/>
+  <testcase name="test03pop()" classname="com.atividade.Testes" time="0.04"/>
+  <testcase name="test01isEmpty()" classname="com.atividade.Testes" time="0.004"/>
+  <testcase name="test02push()" classname="com.atividade.Testes" time="0.002"/>
+  <testcase name="test04peek()" classname="com.atividade.Testes" time="0.002"/>
+  <system-out><![CDATA[Erro: a pilha estÃ¡ cheia!
+Erro: a pilha estÃ¡ cheia!
+Erro: a pilha estÃ¡ cheia!
+Erro: a pilha estÃ¡ cheia!
+Erro: a pilha estÃ¡ cheia!
+Erro: a pilha estÃ¡ cheia!
+Erro: a pilha estÃ¡ cheia!
+Erro: a pilha estÃ¡ cheia!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
